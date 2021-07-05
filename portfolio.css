@@ -46,3 +46,15 @@ a{
 .half-width img{
     width: 75%;
 }
+.dream-big{
+    display: flex;
+}
+.bundle{
+    display: flex;
+}
+
+.box{
+    width: 40%;
+    box-shadow: 0px 0px 10px;
+    margin-left: 5%;
+}
